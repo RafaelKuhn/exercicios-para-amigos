@@ -12,7 +12,6 @@ Após a coleta de inputs válidos, o programa deve, para cada ano da vida de uma
 - Emojis não podem ser repetidos
 - Cada linha subsequente deve ter uma quantidade de espaços crescente, maior que na linha anterior
 - Acima de 60 anos, a mesma quantidade de espaços pode ser usada, não precisa adicionar mais espaços
-   - OBJETIVO EXTRA (não necessário): O emoji deve ser aleatório, porém, determinístico, ou seja, todas as execuções do programa devem resultar na mesma lista de emojis para aquela idade específica (a idade deve ser a "seed" do emoji)
 
 Exemplo: Jorge, 6 anos
 ```
