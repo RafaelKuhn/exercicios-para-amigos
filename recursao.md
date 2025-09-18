@@ -26,6 +26,7 @@ Jorge
 
 Exemplo: Nadya Babushka, 75 anos
 ```
+Nadya Babushka
 0 😀
  1 😃
   2 😄
