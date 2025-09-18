@@ -11,7 +11,7 @@ Faça um programa de terminal com leitura de input de caracteres (pode usar bibl
 Após a coleta de inputs válidos, o programa deve, para cada ano da vida da pessoa, imprimir uma linha contendo uma quantidade de espaços crescente e o ano seguido de um emoji aleatório
 - Emojis não podem ser repetidos
 - Cada linha subsequente deve ter uma quantidade de espaços maior que a linha anterior
-- Acima de 60 anos, a mesma quantidade de espaços deve ser usada, não precisa adicionar mais espaços
+- De 60 anos para cima, a mesma quantidade de espaços deve ser usada, não adicionar mais espaços por linha
 
 Exemplo: Jorge, 6 anos
 ```
@@ -27,7 +27,6 @@ Jorge
 Exemplo: Nadya Babushka, 75 anos
 ```
 Nadya Babushka
-0 😀
  1 😃
   2 😄
    3 😁
@@ -88,19 +87,19 @@ Nadya Babushka
                                                           58 🥶
                                                            59 😱
                                                             60 😨
-                                                             61 😰
-                                                             62 😥
-                                                             63 😓
-                                                             64 🫣
-                                                             65 🤗
-                                                             66 🫡
-                                                             67 🤔
-                                                             68 🫢
-                                                             69 🤭
-                                                             70 🤫
-                                                             71 🤥
-                                                             72 😶
-                                                             73 😶‍🌫️
-                                                             74 😐
-                                                             75 😑
+                                                            61 😰
+                                                            62 😥
+                                                            63 😓
+                                                            64 🫣
+                                                            65 🤗
+                                                            66 🫡
+                                                            67 🤔
+                                                            68 🫢
+                                                            69 🤭
+                                                            70 🤫
+                                                            71 🤥
+                                                            72 😶
+                                                            73 😶‍🌫️
+                                                            74 😐
+                                                            75 😑
 ```
