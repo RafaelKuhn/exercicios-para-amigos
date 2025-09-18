@@ -8,7 +8,7 @@ Faça um programa de terminal com leitura de input de caracteres (pode usar bibl
 - Nomes errados podem ser pedidos de novo ao usuário para sempre
 - Idades erradas não, caso o usuário entre 5 idades erradas, termine o programa dizendo que o usuário é burro
 
-Após a coleta de inputs válidos, o programa deve, para cada ano da vida da pessoa, imprimir uma linha contendo uma quantidade de espaços crescente e o ano seguido de um emoji aleatório
+Após a coleta de inputs válidos, o programa deve imprimir o nome da pessoa e, em seguida, para cada ano da vida da pessoa, imprimir uma linha contendo uma quantidade de espaços crescente e o ano, seguido de um emoji aleatório
 - Emojis não podem ser repetidos
 - Cada linha subsequente deve ter uma quantidade de espaços maior que a linha anterior
 - De 60 anos para cima, a mesma quantidade de espaços deve ser usada, não adicionar mais espaços por linha
