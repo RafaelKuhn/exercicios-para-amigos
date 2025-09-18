@@ -3,7 +3,7 @@
 
 Faça um programa de terminal com leitura de input de caracteres (pode usar bibliotecas de leitura de string mais simples tipo readline-sync para node.js pra ficar mais facil de ler input) que leia um nome e idade válida de uma pessoa:
 - O nome da pessoa deve ter no mínimo 3 caracteres e não pode conter números
-- A idade deve ser um inteiro parsável positivo acima de 12 e abaixo de 120
+- A idade deve ser um inteiro parsável válido positivo de valor mínimo 12 e máximo 120
 - Quando uma entrada estiver errada, por exemplo, o nome, peça repetidamente o nome de novo, até entrar um nome válido
 - Nomes errados podem ser pedidos de novo ao usuário para sempre
 - Idades erradas não, caso o usuário entre 5 idades erradas, termine o programa dizendo que o usuário é burro
