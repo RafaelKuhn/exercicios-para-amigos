@@ -116,7 +116,7 @@ Nadya Babushka
 
 
 
-Exemplo: Maria Gasolina, 22 anos
+Exemplo: Maria Gasolina, 23 anos
 ```
 Maria Gasolina, 2025
  1 😃
