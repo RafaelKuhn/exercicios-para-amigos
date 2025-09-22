@@ -103,3 +103,56 @@ Nadya Babushka
                                                             74 😐
                                                             75 😑
 ```
+
+### Objetivos Extra
+- Escolher uma idade aleatória apenas uma vez e imprimir " - Ano especial = X" após aquela idade, sendo X o ano do mundo real referente a àquela idade
+  - Também deve imprimir logo no começo, junto do nome da pessoa, que ano estamos atualmente
+- Escolher uma idade aleatória que deve ser diferente do ano especial e imprimir " - Somatorio = Y" onde Y é o somatório de todas as idades até aquela idade, incluindo ela
+  - Por exemplo: se a idade for 7, imprimir o resultado de 1+2+3+4+5+6+7, ou seja, 28
+  - <img width="331" height="242" alt="image" src="https://github.com/user-attachments/assets/e4ac8538-8b9f-451b-a46b-2bd41d71d33b" />
+  - Se a idade for 20, imprimir o resultado de 1+2+3+4+5+6+7+8+9+10+11+12+13+14+15+16+17+18+19+20, ou seja, 210
+  - <img width="293" height="229" alt="image" src="https://github.com/user-attachments/assets/cd088142-d959-414d-8e0a-5b1124aee72d" />
+  - Site para debugar o somatório: https://www.desmos.com/calculator/eknt1ywwcg
+
+
+
+Exemplo: Maria Gasolina, 22 anos
+```
+Maria Gasolina, 2025
+ 1 😃
+  2 😄
+   3 😁
+    4 😆
+     5 😅
+      6 😂
+       7 🤣
+        8 🥲
+         9 🥹
+          10 😊
+           11 😇
+            12 🙂
+             13 🙃
+              14 😉
+               15 😌
+                16 😍 - Ano especial = 2018
+                 17 🥰
+                  18 😘
+                   19 😗
+                    20 😙 - Somatorio = 210
+                     22 🙏
+                      23 🤌
+```
+
+Exemplo: Jorge, 9 anos:
+```
+Jorge, 2025, Nao sabe somar
+ 1 🤌
+  2 😭
+   3 👿
+    4 🙁 - Ano especial = 2020
+     5 😎
+      6 🤔
+       7 🙏 - Somatorio = 28
+        8 💕
+         9 👍
+```
