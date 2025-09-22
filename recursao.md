@@ -143,9 +143,9 @@ Maria Gasolina, 2025
                       23 🤌
 ```
 
-Exemplo: Jorge, 9 anos:
+Exemplo: Jorge, 9 anos
 ```
-Jorge, 2025, Nao sabe somar
+Jorge, 2025
  1 🤌
   2 😭
    3 👿
